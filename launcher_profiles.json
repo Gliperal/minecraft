@@ -1,0 +1,71 @@
+{
+  "authenticationDatabase" : {
+    "822766f8ce29e71164d6f54fc1a21d1f" : {
+      "accessToken" : "5fedf7d0301e4774852d338bb20c50ff",
+      "profiles" : {
+        "6552f787400746a3affe250661267264" : {
+          "displayName" : "GarbageManTodd"
+        }
+      },
+      "properties" : 
+      [
+        {
+          "name" : "preferredLanguage",
+          "profileId" : "",
+          "userId" : "822766f8ce29e71164d6f54fc1a21d1f",
+          "value" : "en-us"
+        },
+        {
+          "name" : "registrationCountry",
+          "profileId" : "",
+          "userId" : "822766f8ce29e71164d6f54fc1a21d1f",
+          "value" : "US"
+        }
+      ],
+      "username" : "GarbageManTodd@gmail.com"
+    }
+  },
+  "clientToken" : "2733749e1d1d4653b40ac7a9be31c0e4",
+  "launcherVersion" : {
+    "format" : 21,
+    "name" : "",
+    "profilesFormat" : 2
+  },
+  "profiles" : {
+    "280823703b3ed756646e12f085706483" : {
+      "created" : "1970-01-01T00:00:00.000Z",
+      "icon" : "Grass",
+      "lastUsed" : "2019-09-13T06:41:54.457Z",
+      "lastVersionId" : "latest-release",
+      "name" : "",
+      "type" : "latest-release"
+    },
+    "61a9c40ead68e4f14715274b9fc33e4d" : {
+      "created" : "1970-01-01T00:00:00.000Z",
+      "icon" : "Crafting_Table",
+      "lastUsed" : "1970-01-01T00:00:00.000Z",
+      "lastVersionId" : "latest-snapshot",
+      "name" : "",
+      "type" : "latest-snapshot"
+    }
+  },
+  "selectedUser" : {
+    "account" : "822766f8ce29e71164d6f54fc1a21d1f",
+    "profile" : "6552f787400746a3affe250661267264"
+  },
+  "settings" : {
+    "channel" : "release",
+    "crashAssistance" : true,
+    "enableAdvanced" : false,
+    "enableAnalytics" : true,
+    "enableHistorical" : false,
+    "enableReleases" : true,
+    "enableSnapshots" : false,
+    "keepLauncherOpen" : false,
+    "locale" : "en-US",
+    "profileSorting" : "ByLastPlayed",
+    "showGameLog" : false,
+    "showMenu" : false,
+    "soundOn" : false
+  }
+}

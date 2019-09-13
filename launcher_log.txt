@@ -1,0 +1,93 @@
+[Info: 2019-09-13 07:08:37.907965: Common.cpp(31)] Native Launcher Version: 495
+[Info: 2019-09-13 07:08:37.908047: Common.cpp(32)] Operating System: OSX Version 10.13.4 (Build 17E199)
+[Info: 2019-09-13 07:08:37.989357: Common.cpp(33)] Application Data directory: /nfs/2017/n/nwhitlow/Library/Application Support/minecraft
+[Info: 2019-09-13 07:08:37.989407: Common.cpp(34)] Executable Path: /nfs/2017/n/nwhitlow/Desktop/Minecraft.app/Contents/MacOS/launcher
+[Info: 2019-09-13 07:08:37.989418: Common.cpp(35)] App Directory dir: /nfs/2017/n/nwhitlow/Desktop/Minecraft.app/Contents
+[Info: 2019-09-13 07:08:37.989441: Common.cpp(36)] Game data directory: /nfs/2017/n/nwhitlow/Library/Application Support/minecraft
+[Info: 2019-09-13 07:08:37.989450: Common.cpp(37)] Launcher dir: /nfs/2017/n/nwhitlow/Library/Application Support/minecraft/launcher
+[Info: 2019-09-13 07:08:37.989459: Common.cpp(38)] Java dir: /nfs/2017/n/nwhitlow/Library/Application Support/minecraft/runtime/jre-x64
+[Info: 2019-09-13 07:08:37.989468: Common.cpp(39)] TmpDir dir: /var/folders/zz/zyxvpxvq6csfxvn_n0003k74000wjs/T/MinecraftLauncher
+[Info: 2019-09-13 07:08:37.989477: Common.cpp(40)] x64: 1
+[Info: 2019-09-13 07:08:37.990070: NetQueue.cpp(202)] NetQueue: Setting up.
+[Info: 2019-09-13 07:08:37.990097: LauncherConfiguration.cpp(238)] Using configuration at path: /nfs/2017/n/nwhitlow/Library/Application Support/minecraft/launcher_profiles.json
+[Info: 2019-09-13 07:08:37.990700: NetQueue.cpp(519)] NetQueue: worker thread started.
+[Info: 2019-09-13 07:08:37.991032: NetQueue.cpp(534)] NetQueue: Starting net action https://launchermeta.mojang.com/v1/products/launcher/022631aeac4a9addbce8e0503dce662152dc198d/mac-os.json
+[Info: 2019-09-13 07:08:38.088426: NetQueue.cpp(401)] NetQueue: Primary ip: 143.204.129.138, Url: launchermeta.mojang.com
+[Info: 2019-09-13 07:08:38.088645: NetQueue.cpp(472)] NetQueue: Action finished: https://launchermeta.mojang.com/v1/products/launcher/022631aeac4a9addbce8e0503dce662152dc198d/mac-os.json
+[Info: 2019-09-13 07:08:38.089033: LauncherConfiguration.cpp(149)] Deciding on update with strategy 2 and clientID 144
+[Info: 2019-09-13 07:08:38.089055: LauncherConfiguration.cpp(165)] Version of launcher-bootstrap is current, no action is necessary.
+[Info: 2019-09-13 07:08:38.089079: LauncherConfiguration.cpp(198)] Bootstrap is current
+[Info: 2019-09-13 07:08:38.089513: LauncherConfiguration.cpp(149)] Deciding on update with strategy 2 and clientID 144
+[Info: 2019-09-13 07:08:38.089531: LauncherConfiguration.cpp(165)] Version of launcher-core is current, no action is necessary.
+[Info: 2019-09-13 07:08:38.089542: LauncherConfiguration.cpp(198)] Bootstrap is current
+[Info: 2019-09-13 07:08:38.089666: LauncherConfiguration.cpp(149)] Deciding on update with strategy 2 and clientID 144
+[Info: 2019-09-13 07:08:38.089679: LauncherConfiguration.cpp(165)] Version of jre-x64 is current, no action is necessary.
+[Info: 2019-09-13 07:08:38.089689: LauncherConfiguration.cpp(198)] Bootstrap is current
+[Info: 2019-09-13 07:08:38.090013: StartLibrary.cpp(68)] Starting /Volumes/Storage/cache/nwhitlow/Library/Application Support/minecraft/launcher/launcher.bundle with /Volumes/Storage/cache/nwhitlow/Library/Application Support/minecraft/runtime/jre-x64/jre.bundle/Contents/Home/bin/java
+[Info: 2019-09-13 07:08:38.122427: StartLibrary.cpp(80)] Running launcher!
+[Info: 2019-09-13 07:08:38.124837: LauncherMain.cpp(88)] Running Launcher
+[Info: 2019-09-13 07:08:38.125187: NetQueue.cpp(202)] NetQueue: Setting up.
+[Info: 2019-09-13 07:08:38.125420: NetQueue.cpp(207)] NetQueue: Initiating shutdown.
+[Info: 2019-09-13 07:08:38.126039: LauncherMain.cpp(161)] Launcher core version: 2.1.5963 (2d12ae3b04458774a644a7bb7a3745a624f3ce46)
+[Info: 2019-09-13 07:08:38.126074: NetQueue.cpp(202)] NetQueue: Setting up.
+[Info: 2019-09-13 07:08:38.126437: GameVersionManager.cpp(70)] Looking for installed versions in '/Volumes/Storage/cache/nwhitlow/Library/Application Support/minecraft/versions'
+[Info: 2019-09-13 07:08:38.126502: NetQueue.cpp(519)] NetQueue: worker thread started.
+[Info: 2019-09-13 07:08:38.126724: NetQueue.cpp(534)] NetQueue: Starting net action https://authserver.mojang.com/validate
+[Info: 2019-09-13 07:08:38.165438: NetQueue.cpp(534)] NetQueue: Starting net action https://launchermeta.mojang.com/mc/game/version_manifest.json?_t=2019-09-13T07:08:38Z
+[Info: 2019-09-13 07:08:38.212377: LauncherAppBrowser.cpp(71)] Work dir is /Volumes/Storage/cache/nwhitlow/Library/Application Support/minecraft
+[Info: 2019-09-13 07:08:38.212919: ClientHandler.cpp(271)] Creating launcher window.
+[Info: 2019-09-13 07:08:38.287994: NetQueue.cpp(401)] NetQueue: Primary ip: 143.204.129.138, Url: launchermeta.mojang.com
+[Info: 2019-09-13 07:08:38.288118: NetQueue.cpp(472)] NetQueue: Action finished: https://launchermeta.mojang.com/mc/game/version_manifest.json?_t=2019-09-13T07:08:38Z
+[Info: 2019-09-13 07:08:38.288131: GameVersionManager.cpp(160)] Got available versions manifest from https://launchermeta.mojang.com/mc/game/version_manifest.json?_t=2019-09-13T07:08:38Z
+[Info: 2019-09-13 07:08:38.294752: NetQueue.cpp(401)] NetQueue: Primary ip: 13.35.123.68, Url: authserver.mojang.com
+[Info: 2019-09-13 07:08:38.294879: NetQueue.cpp(472)] NetQueue: Action finished: https://authserver.mojang.com/validate
+[Info: 2019-09-13 07:08:38.326347: CefSystemUtils_OSX.mm(40)] Enabling accessibility features for the main window.
+[Info: 2019-09-13 07:08:38.339608: LauncherMain.cpp(88)] Running Launcher
+[Info: 2019-09-13 07:08:38.341157: NetQueue.cpp(202)] NetQueue: Setting up.
+[Info: 2019-09-13 07:08:38.341428: NetQueue.cpp(207)] NetQueue: Initiating shutdown.
+[Info: 2019-09-13 07:08:38.342499: LauncherMain.cpp(161)] Launcher core version: 2.1.5963 (2d12ae3b04458774a644a7bb7a3745a624f3ce46)
+[Info: 2019-09-13 07:08:38.342509: NetQueue.cpp(202)] NetQueue: Setting up.
+[Info: 2019-09-13 07:08:38.451470: LauncherAppRenderer.cpp(83)] Javascript bridge extended.
+[Info: 2019-09-13 07:08:38.603643: LauncherAppRenderer.cpp(217)] Creating renderer context...
+[Info: 2019-09-13 07:08:39.866219: NetQueue.cpp(534)] NetQueue: Starting net action https://launchermeta.mojang.com/v1/products/launcher/022631aeac4a9addbce8e0503dce662152dc198d/mac-os.json
+[Info: 2019-09-13 07:08:39.875735: NetQueue.cpp(401)] NetQueue: Primary ip: 143.204.129.138, Url: launchermeta.mojang.com
+[Info: 2019-09-13 07:08:39.875824: NetQueue.cpp(472)] NetQueue: Action finished: https://launchermeta.mojang.com/v1/products/launcher/022631aeac4a9addbce8e0503dce662152dc198d/mac-os.json
+[Info: 2019-09-13 07:08:41.816150: ClientHandler.cpp(141)] Entering DoClose!
+[Info: 2019-09-13 07:08:41.816190: ClientHandler.cpp(143)] DoClose got past CEF_REQUIRE_UI_THREAD!
+[Info: 2019-09-13 07:08:41.816203: ClientHandler.cpp(174)] DoClose: known browser removed.
+[Info: 2019-09-13 07:08:41.816232: ClientHandler.cpp(184)] DoClose: main browser removed.
+[Info: 2019-09-13 07:08:42.316403: ClientHandler.cpp(239)] Shutting down!
+[Info: 2019-09-13 07:08:42.319801: ClientHandler.cpp(196)] Ent[Info: 2019-09-13 07:11:13.680589: NetQueue.cpp(534)] NetQueue: Starting net action https://launchermeta.mojang.com/v1/products/launcher/022631aeac4a9addbce8e0503dce662152dc198d/mac-os.json
+[Info: 2019-09-13 07:11:13.775462: NetQueue.cpp(401)] NetQueue: Primary ip: 143.204.129.138, Url: launchermeta.mojang.com
+[Info: 2019-09-13 07:11:13.775581: NetQueue.cpp(472)] NetQueue: Action finished: https://launchermeta.mojang.com/v1/products/launcher/022631aeac4a9addbce8e0503dce662152dc198d/mac-os.json
+[Info: 2019-09-13 07:16:13.677693: NetQueue.cpp(534)] NetQueue: Starting net action https://launchermeta.mojang.com/v1/products/launcher/022631aeac4a9addbce8e0503dce662152dc198d/mac-os.json
+[Info: 2019-09-13 07:16:13.778157: NetQueue.cpp(401)] NetQueue: Primary ip: 143.204.129.138, Url: launchermeta.mojang.com
+[Info: 2019-09-13 07:16:13.778251: NetQueue.cpp(472)] NetQueue: Action finished: https://launchermeta.mojang.com/v1/products/launcher/022631aeac4a9addbce8e0503dce662152dc198d/mac-os.json
+[Info: 2019-09-13 07:21:13.679605: NetQueue.cpp(534)] NetQueue: Starting net action https://launchermeta.mojang.com/v1/products/launcher/022631aeac4a9addbce8e0503dce662152dc198d/mac-os.json
+[Info: 2019-09-13 07:21:13.763146: NetQueue.cpp(401)] NetQueue: Primary ip: 99.84.224.142, Url: launchermeta.mojang.com
+[Info: 2019-09-13 07:21:13.763246: NetQueue.cpp(472)] NetQueue: Action finished: https://launchermeta.mojang.com/v1/products/launcher/022631aeac4a9addbce8e0503dce662152dc198d/mac-os.json
+[Info: 2019-09-13 07:26:13.677118: NetQueue.cpp(534)] NetQueue: Starting net action https://launchermeta.mojang.com/v1/products/launcher/022631aeac4a9addbce8e0503dce662152dc198d/mac-os.json
+[Info: 2019-09-13 07:26:13.785872: NetQueue.cpp(401)] NetQueue: Primary ip: 143.204.129.138, Url: launchermeta.mojang.com
+[Info: 2019-09-13 07:26:13.785953: NetQueue.cpp(472)] NetQueue: Action finished: https://launchermeta.mojang.com/v1/products/launcher/022631aeac4a9addbce8e0503dce662152dc198d/mac-os.json
+[Info: 2019-09-13 07:31:13.675016: NetQueue.cpp(534)] NetQueue: Starting net action https://launchermeta.mojang.com/v1/products/launcher/022631aeac4a9addbce8e0503dce662152dc198d/mac-os.json
+[Info: 2019-09-13 07:31:13.752783: NetQueue.cpp(401)] NetQueue: Primary ip: 143.204.129.138, Url: launchermeta.mojang.com
+[Info: 2019-09-13 07:31:13.752873: NetQueue.cpp(472)] NetQueue: Action finished: https://launchermeta.mojang.com/v1/products/launcher/022631aeac4a9addbce8e0503dce662152dc198d/mac-os.json
+[Info: 2019-09-13 07:34:09.048738: LauncherMain.cpp(29)] Reopen event triggered!
+[Info: 2019-09-13 07:34:09.048782: LauncherMain.cpp(33)] Asking to focus browser window.
+[Info: 2019-09-13 07:34:09.048798: ClientHandler.cpp(265)] Launcher is already open!
+[Info: 2019-09-13 07:34:13.831724: ClientHandler.cpp(141)] Entering DoClose!
+[Info: 2019-09-13 07:34:13.831756: ClientHandler.cpp(143)] DoClose got past CEF_REQUIRE_UI_THREAD!
+[Info: 2019-09-13 07:34:13.831782: ClientHandler.cpp(174)] DoClose: known browser removed.
+[Info: 2019-09-13 07:34:13.831794: ClientHandler.cpp(184)] DoClose: main browser removed.
+[Info: 2019-09-13 07:34:14.332049: ClientHandler.cpp(239)] Shutting down!
+[Info: 2019-09-13 07:34:14.335260: ClientHandler.cpp(196)] Entering OnBeforeClose!
+[Info: 2019-09-13 07:34:14.335293: ClientHandler.cpp(198)] OnBeforeClose got past CEF_REQUIRE_UI_THREAD!
+[Info: 2019-09-13 07:34:14.343866: NetQueue.cpp(207)] NetQueue: Initiating shutdown.
+[Info: 2019-09-13 07:34:14.343906: NetQueue.cpp(213)] NetQueue: Waiting for worker thread to finish...
+[Info: 2019-09-13 07:34:14.344039: NetQueue.cpp(596)] NetQueue: Worker thread shutting down.
+[Info: 2019-09-13 07:34:14.344093: NetQueue.cpp(216)] NetQueue: Done.
+[Info: 2019-09-13 07:34:14.352780: StartLibrary.cpp(92)] Launcher ended with 0
+[Info: 2019-09-13 07:34:14.352849: NetQueue.cpp(207)] NetQueue: Initiating shutdown.
+[Info: 2019-09-13 07:34:14.352865: NetQueue.cpp(213)] NetQueue: Waiting for worker thread to finish...
+[Info: 2019-09-13 07:34:14.353052: NetQueue.cpp(596)] NetQueue: Worker thread shutting down.
+[Info: 2019-09-13 07:34:14.353111: NetQueue.cpp(216)] NetQueue: Done.
